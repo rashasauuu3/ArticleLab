@@ -24,5 +24,5 @@
 * *Backend & Auth:* Supabase (BaaS)
 * *Database:* PostgreSQL (Managed by Supabase)
 
-##Happy Coding ! 🥳
+## Happy Coding ! 🥳
 ---
